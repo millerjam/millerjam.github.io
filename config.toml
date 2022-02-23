@@ -1,0 +1,4 @@
+baseURL = 'http://millerjam.github.io/'
+languageCode = 'en-us'
+title = 'MillerJAM Site'
+theme = "PaperMod"

@@ -2,3 +2,17 @@ baseURL = 'http://millerjam.github.io/'
 languageCode = 'en-us'
 title = 'MillerJAM Site'
 theme = "PaperMod"
+
+[params.homeInfoParams]
+Title = "James Miller's Post"
+Content = "Current thoughts and notes about things I'm learning"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/jamesmiller01"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/millerjam"
+
+

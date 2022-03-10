@@ -15,4 +15,6 @@ url = "https://twitter.com/jamesmiller01"
 name = "github"
 url = "https://github.com/millerjam"
 
-
+[params]
+ShowReadingTime = true
+ShowToc = true

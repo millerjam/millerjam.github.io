@@ -7,13 +7,20 @@ draft: false
 
 ## Getting started with AWS Lambda Rust Runtime
 
-I just finished a quick tutorial to create a "hello world" lambda using 
-[AWS Lambda Rust Runtime](https://github.com/awslabs/aws-lambda-rust-runtime)
+I just finished a quick tutorial to create a [hello world](https://github.com/millerjam/rust_lambda_hello_world) lambda using the [AWS Lambda Rust Runtime](https://github.com/awslabs/aws-lambda-rust-runtime)
 
+---
+#### Github repo for the tutorial
+ If you're in a rush...
+
+ You can view the completed source code here: [rust_lambda_hello_world](https://github.com/millerjam/rust_lambda_hello_world)
+
+---
+## Overview
 
 I think that Rust is a great fit for serverless and I wanted to start documenting how to use Rust in a lambda. Lambdas are a great opportunity to test out a new language without making a huge commitment in terms of time or resources. Additionally, the explicit connection between execution time and cost highlight the benefit of Rust's speed, both for for cold starts and  warm execution time.
 
-Before getting started here some prerequisites that you should already have working... 
+Before getting started here some prerequisites that you should already have working...
 
 ## Prerequisites
 1. Install rust/cargo/etc
@@ -185,6 +192,10 @@ The "hello world" lambda doesn't do much, but it is still impressive to see a `B
 
 We were able to successfully create a Lambda using Rust! Using the [AWS Lambda Rust Runtime](https://github.com/awslabs/aws-lambda-rust-runtime) made this easy, the code is straight forward. And using Zig made it easy to cross compile. The final result is a small binary that runs super fast.
 
-### Next Time
+#### Finally the Source Code
+ The complete project is here in my github repo [https://github.com/millerjam/rust_lambda_hello_world](https://github.com/millerjam/rust_lambda_hello_world)
+
+
+## Next Time
 Next time, we will look at moving past "hello world" by adding some more functionality that we would need for any real world projects. 
 

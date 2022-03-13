@@ -1,7 +1,7 @@
 ---
 title: "Rust Lambda Hello World Logging"
 date: 2022-03-13T14:35:38-04:00
-draft: true
+draft: false
 ---
 
 In my previous article, I started a tutorial on creating a lambda in Rust. If you missed it, you can catch up on that article here -> [Rust Lambda Hello World](../rust-lambda-hello-world) 

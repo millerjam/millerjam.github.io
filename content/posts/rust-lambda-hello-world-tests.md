@@ -116,12 +116,12 @@ The entire file is here
 
 One you have committed this file into your github repo, you will see it populated in the ["Action" tab](https://github.com/millerjam/rust_lambda_hello_world/actions)
 
-![GitHub Action Passing](/static/gh-action-pass-1.png)
+![GitHub Action Passing](/gh-action-pass-1.png)
 
 
 Passing PRs will show a green check, and if any of the checks fail the PR will be marked as failed. And selecting the failed action will show the 4 jobs and which has failed
 
-![GitHub Action Failed](/static/gh-action-failed-2.png)
+![GitHub Action Failed](/gh-action-failed-2.png)
 
 ## Conclusions
 

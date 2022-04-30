@@ -2,6 +2,7 @@
 title: "Rust Lambda Hello World Tests"
 date: 2022-03-27T09:09:17-04:00
 draft: false
+description: Adding tests and GitHub Actions to finish up the Rust Lambda tutorial
 ---
 
 This is my third and final post in this series about getting started with writing Lambda's in Rust. So far, we have created a new lambda, cross compiled it to run in the AWS Lamdba environment, and added some logging so we can debug issues and see how the code is executing.

@@ -2,6 +2,7 @@
 title: "Rust Lambda Hello World"
 date: 2022-03-07T17:06:12-05:00
 draft: false
+description: A quick tutorial to create a "hello world" lambda in Rust, using the AWS Lambda Rust Runtime
 ---
 
 

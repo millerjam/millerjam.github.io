@@ -2,6 +2,7 @@
 title: "My First Post"
 date: 2022-02-22T11:09:05-05:00
 draft: false
+description: Starting a tutorial for building Serverless Lambdas in Rust
 ---
 I started learning Serverless with [Rust](https://www.rust-lang.org/).
 
